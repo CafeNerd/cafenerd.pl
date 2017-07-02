@@ -1,0 +1,50 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <atom:link href="{{ site.data.metadata.url }}/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>{{ site.data.metadata.title }}</title>
+    <link>{{ site.data.metadata.url }}</link>
+    <language>pl</language>
+    <itunes:subtitle><![CDATA[{{ site.data.metadata.subtitle }}]]></itunes:subtitle>
+    <description><![CDATA[{{ site.data.metadata.description }}]]></description>
+    <itunes:summary><![CDATA[{{ site.data.metadata.description }}]]></itunes:summary>
+
+    <copyright><![CDATA[{{ site.data.metadata.copyright }}]]></copyright>
+
+    <image>
+      <url>{{ site.data.metadata.logo_url }}</url>
+      <title>{{ site.data.metadata.title }}</title>
+      <link>{{ site.data.metadata.url }}</link>
+    </image>
+
+    <itunes:owner>
+      <itunes:name>{{ site.data.metadata.author }}</itunes:name>
+      <itunes:email>{{ site.data.metadata.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:author>{{ site.data.metadata.author }}</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="{{ site.data.metadata.logo_url }}"/>
+
+    <itunes:category text="Technology"/>
+    <itunes:category text="Society &amp; Culture"/>
+  {% for episode in site.data.episodes %}
+    <item>
+      <guid isPermaLink="true">{{ episode.guid }}</guid>
+      <enclosure type="audio/mpeg" url="{{ episode.url }}" length="{{ episode.length }}"/>
+      <title>{{ episode.title }}</title>
+      <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
+      <itunes:author>{{ site.data.metadata.author }}</itunes:author>
+      <itunes:image href="{{ site.data.metadata.logo_url }}"/>
+      <itunes:duration href="{{ episode.duration }}"/>
+      <itunes:explicit>no</itunes:explicit>
+      <language>pl</language>
+      <link>{{ site.data.metadata.url }}</link>
+      <itunes:subtitle><![CDATA[{{ episode.subtitle }}]]></itunes:subtitle>
+      <itunes:summary><![CDATA[{{ episode.description | markdownify }}]]></itunes:summary>
+      <description><![CDATA[{{ episode.description | markdownify }}]]></description>
+    </item>
+  {% endfor %}
+  </channel>
+</rss>
