@@ -29,7 +29,7 @@
 
     <itunes:category text="Technology"/>
     <itunes:category text="Society &amp; Culture"/>
-  {% for episode in site.data.episodes %}
+  {% for episode in site.episodes %}
     <item>
       <guid isPermaLink="false">{{ episode.guid }}</guid>
       <enclosure type="audio/mpeg" url="{{ episode.url }}" length="{{ episode.length }}"/>
@@ -48,3 +48,4 @@
   {% endfor %}
   </channel>
 </rss>
+
