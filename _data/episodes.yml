@@ -1,7 +1,7 @@
 - guid: 2017-08-25-Odcinek zerowy
   length: 66520631 
   duration: "00:34:38"
-  title: Przedstawiamy się
+  title: "#4: Przedstawiamy się"
   date: 2017-08-25 09:00:00 CET
   url: http://episodes.cafenerd.pl/2017-08-25-Odcinek-zerowy.mp3
   subtitle: Kim są osoby stojące za Café Nerd? Czym się zajmują? Dlaczego nagrywają podcast?
@@ -21,7 +21,7 @@
 - guid: 2017-08-18-AppleWatch
   length: 61565096
   duration: "00:42:44"
-  title: O Apple Watch
+  title: "#3: O Apple Watch"
   date: 2017-08-18 09:00:00 CET
   url: http://episodes.cafenerd.pl/2017-08-18-AppleWatch.mp3
   subtitle: Dlaczego korzystamy z AppleWatch? Dlaczego jest on tak popularny? Czy jest on wielkim rozczarowaniem?
@@ -40,22 +40,22 @@
 - guid: 2017-07-18-Work-Life-Balance
   length: 92927293
   duration: "00:48:24"
-  title: Work-Life Balance
+  title: "#2: Work-Life Balance"
   date: 2017-07-18 09:00:00 CET
   url: http://episodes.cafenerd.pl/2017-07-18-Work-Life-Balance.mp3
-  subtitle: ""
+  subtitle: Co to jest work-life balance? Czy w ogóle istnieje? Czy można go osiągnąć w branży IT?
   description: >
-    Grzesiek, Asia, Rafał i Maciek rozmawiają o work-life balance.
+    [Grzesiek](https://twitter.com/gkapusta), [Asia](https://twitter.com/_joannakk_), [Rafał](https://twitter.com/rtulwin) i [Maciek](https://twitter.com/MaciejOczko) rozmawiają o work-life balance. Zastanawiają się, czy w ogóle istnieje i czy można go osiągnąć w branży IT. Dzielą się strategiami, jak próbują łączyć życie prywatne z zawodowym.
 
 - guid: 2017-06-30-Accessibility
   length: 79088664
   duration: "00:41:11"
-  title: O accessibility
+  title: "#1: O accessibility"
   date: 2017-06-30 09:00:00 CET
   url: http://episodes.cafenerd.pl/2017-06-30-Accessibility.mp3
   subtitle: "Testy aplikacji mobilnej dla osób niewidomych zainspirowały nas do rozmowy o accessibility"
   description: >
-    W odcinku Aga, Nadia, Maciek i Krzysiek rozmawiają o dostępności aplikacji mobilnych.
+    W odcinku [Aga](https://twitter.com/agaczyzak), [Nadia](https://twitter.com/NadiaPL_), [Maciek](https://twitter.com/MaciejOczko) i [Krzysiek](https://twitter.com/_siejkowski) rozmawiają o dostępności aplikacji mobilnych.
 
     ### Shownotes:
      * [How does a blind developer code?](https://www.youtube.com/watch?v=iWXebEeGwn0)
