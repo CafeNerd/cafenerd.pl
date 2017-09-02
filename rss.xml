@@ -42,8 +42,8 @@
       <language>pl</language>
       <link>{{ site.data.metadata.url }}</link>
       <itunes:subtitle><![CDATA[{{ episode.subtitle }}]]></itunes:subtitle>
-      <itunes:summary><![CDATA[{{ episode.description | markdownify }}]]></itunes:summary>
-      <description><![CDATA[{{ episode.description | markdownify }}]]></description>
+      <itunes:summary><![CDATA[{{ episode.content | markdownify }}]]></itunes:summary>
+      <description><![CDATA[{{ episode.content | markdownify }}]]></description>
     </item>
   {% endfor %}
   </channel>
