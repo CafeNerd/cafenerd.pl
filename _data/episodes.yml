@@ -1,3 +1,23 @@
+- guid: 2017-08-25-Odcinek zerowy
+  length: 66520631 
+  duration: "00:34:38"
+  title: Przedstawiamy się
+  date: 2017-08-25 09:00:00 CET
+  url: http://episodes.cafenerd.pl/2017-08-25-Odcinek-zerowy.mp3
+  subtitle: Kim są osoby stojące za Café Nerd? Czym się zajmują? Dlaczego nagrywają podcast?
+  description: >
+    W odcinku osiem osób stojących za Café Nerd opowiada o tym, kim jesteśmy, czym się zajmujemy i dlaczego nagrywamy podcast.
+
+    ### Uczestnicy:
+      * [Maciek Oczko](https://twitter.com/MaciejOczko) (prowadzący)
+      * [Agnieszka Czyżak](https://twitter.com/agaczyzak)
+      * [Joanna Kasprzak-Kajder](https://twitter.com/_joannakk_)
+      * [Krzysztof Siejkowski](https://twitter.com/_siejkowski)
+      * [Mikołaj Kojdecki](https://www.linkedin.com/in/mikołaj-kojdecki-0b4670114)
+      * [Nadia Kasem](https://twitter.com/NadiaPL_)
+      * [Rafał Tulwin](https://twitter.com/rtulwin)
+      * [Grzegorz Kapusta](https://twitter.com/gkapusta)
+
 - guid: 2017-08-18-AppleWatch
   length: 61565096
   duration: "00:42:44"
@@ -8,8 +28,7 @@
   description: >
     W odcinku [Krzysiek](https://twitter.com/_siejkowski), [Aga](https://twitter.com/agaczyzak) i [Maciek](https://twitter.com/MaciejOczko) rozmawiają o AppleWatch.
 
-    Opowiadając o tym jak korzystają na co dzień z zegarka firmy Apple i o swoich rozczarowaniach z nim związanych,
-    poruszają kwestie historii urządzenia, jego użyteczności, wyglądu, zagadnień i trudności technologicznych oraz największych plusów i minusów gadżetu rodem z Cupertino.
+    Opowiadając o tym jak korzystają na co dzień z zegarka firmy Apple i o swoich rozczarowaniach z nim związanych, poruszają kwestie historii urządzenia, jego użyteczności, wyglądu, zagadnień i trudności technologicznych oraz największych plusów i minusów gadżetu rodem z Cupertino.
 
     ### Shownotes:
      * [Apple Watch Official](https://www.apple.com/watch/)
@@ -18,6 +37,16 @@
      * [Sally Shephard MCE „Helping users create good habits”](https://www.youtube.com/watch?v=oIjd7XVgc2k)
      * [Apple Watch Apps Worth Using](https://siejkowski.net/watch-apps-worth-using)
  
+- guid: 2017-07-18-Work-Life-Balance
+  length: 92927293
+  duration: "00:48:24"
+  title: Work-Life Balance
+  date: 2017-07-18 09:00:00 CET
+  url: http://episodes.cafenerd.pl/2017-07-18-Work-Life-Balance.mp3
+  subtitle: ""
+  description: >
+    Grzesiek, Asia, Rafał i Maciek rozmawiają o work-life balance.
+
 - guid: 2017-06-30-Accessibility
   length: 79088664
   duration: "00:41:11"
@@ -34,12 +63,4 @@
      * [Statistics](https://www.smashingmagazine.com/2015/02/designing-digital-technology-for-the-elderly/)
      * [Apple Accessibility Guidelines](https://developer.apple.com/ios/human-interface-guidelines/interaction/accessibility/)
      * [Women get more VR sickness than men](https://www.newscientist.com/article/2115648-posture-could-explain-why-women-get-more-vr-sickness-than-men/)
-- guid: 2017-07-18-Work-Life-Balance
-  length: 92927293
-  duration: "00:48:24"
-  title: Work-Life Balance
-  date: 2017-07-18 09:00:00 CET
-  url: http://episodes.cafenerd.pl/2017-07-18-Work-Life-Balance.mp3
-  subtitle: ""
-  description: >
-    Grzesiek, Asia, Rafał i Maciek rozmawiają o work-life balance.
+
