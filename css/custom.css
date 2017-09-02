@@ -19,6 +19,12 @@
   text-decoration: underline;
 }
 
+.header span {
+  font-family: "FontAwesome";
+  font-style: normal;
+  font-weight: normal;
+}
+
 .episode {
   color: #333333;
 }
