@@ -21,15 +21,43 @@
     </div>
     <div class="row text-left">
       <div class="columns small-12 shownotes">
-        {{ episode.description | markdownify }}
+        {{ episode.content | markdownify }}
       </div>
     </div>
     <div class="row share align-middle text-center">
-      <div class="columns small-12">
-        Ściągnij Overcast iTunes
+      <div class="columns small-2"></div>
+      <div class="columns small-8">
+        <div class="row align-middle text-center">
+          <div class="columns small-4">
+            <a href="{{ episode.file }}">
+              Ściągnij
+            </a>
+          </div>
+          <div class="columns small-4">
+            {% if episode.overcast %}
+            <a href="{{ episode.overcast }}">
+            {% else %}
+            <a href="{{ site.data.metadata.overcast }}">
+            {% endif %}
+              Overcast 
+            </a>
+          </div>
+          <div class="columns small-4">
+            {% if episode.overcast %}
+            <a href="{{ episode.itunes }}">
+            {% else %}
+            <a href="{{ site.data.metadata.itunes }}">
+            {% endif %}
+              iTunes
+            </a>
+          </div>
+        </div>
       </div>
+      <div class="columns small-2"></div>
     </div>
+{% if forloop.last == false %}
 <hr/>
+{% endif %}
   </div>
 </div>
 

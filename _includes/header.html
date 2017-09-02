@@ -18,7 +18,11 @@
     </a>
   </div>
   <div class="columns small-2">
-    <a href="/about">
+    <a href="/about"
+       {% if include.underline_about %}
+       class="underline"
+       {% endif %}
+    >
       CO TO JEST
     </a>
   </div>

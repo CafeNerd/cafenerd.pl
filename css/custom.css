@@ -8,6 +8,7 @@
   font-weight: bold;
   font-family: "PT Mono";
   font-size: 12pt;
+  margin-bottom: 2em;
 }
 
 .header a {
@@ -47,6 +48,7 @@
 
 .episode .shownotes {
   font-size: 11pt;
+  font-family: "Open Sans";
 }
 
 .episode .shownotes h1,
@@ -70,11 +72,41 @@
 }
 
 .episode .share {
+  height: 5em;
+}
+
+.episode .share a {
   color: #f4512c;
   font-family: "PT Mono";
   font-weight: bold;
   font-size: 12pt;
-  height: 5em;
+}
+
+.speakers {
+  margin-bottom: 3em;
+}
+
+.speakers a {
+  color: #f4512c;
+  font-family: "PT Mono";
+  font-weight: bold;
+  font-size: 12pt;
+}
+
+.speakers .title {
+  height: 4em;
+}
+
+.speakers .title h1 {
+  font-size: 17pt;
+  font-weight: bold;
+  font-family: "Open Sans";
+}
+
+.speakers .description {
+  font-size: 11pt;
+  font-family: "Open Sans";
+  margin-bottom: 2em;
 }
 
 .footer {
@@ -83,5 +115,10 @@
   height: 8em;
   font-family: "Open Sans";
   font-size: 11pt;
+  margin-top: 2em;
+}
+
+.footer a {
+  color: #333333;
 }
 

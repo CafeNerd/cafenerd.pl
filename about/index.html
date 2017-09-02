@@ -1,0 +1,43 @@
+---
+---
+
+{% include head.html %}
+
+{% include header.html underline_about=true %}
+
+<div class="speakers row align-middle">
+  <div class="columns small-12 medium-10 medium-offset-1">
+    <div class="row title align-middle text-left">
+      <div class="columns small-12">
+        <h1>O technologiach i trendach przy kawie</h1>
+      </div>
+    </div>
+    <div class="row description align-middle text-left">
+      <div class="columns small-12">
+        <p>Głos technologii w Twoim domu, w Twoich słuchawkach, w Twojej głowie.</p>
+      </div>
+    </div>
+    <div class="row text-left">
+{% for speaker in site.data.speakers %}
+<div class="columns small-6 medium-4 large-3">
+  <div class="row text-center align-middle">
+    <div class="columns small-12">
+      <img src="{{ speaker[1].photo }}" />
+    </div>
+    <div class="columns small-12">
+      <a href="{{ speaker[1].contact }}">
+        {{ speaker[1].name }}
+      </a>
+    </div>
+  </div>
+</div>
+{% endfor %}      
+    </div>
+  </div>
+</div>
+
+
+{% include footer.html %}
+
+{% include feet.html %}
+
