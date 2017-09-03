@@ -11,6 +11,12 @@
   margin-bottom: 2em;
 }
 
+.header .button {
+  background-color: #f4512c;
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+}
+
 .header a {
   color: #ffffff;
   text-decoration: none;
@@ -112,10 +118,14 @@
 .footer {
   background-color: #bbbbbb;
   color: #333333;
-  height: 8em;
   font-family: "Open Sans";
   font-size: 11pt;
   margin-top: 2em;
+}
+
+.footer .row {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
 }
 
 .footer a {
