@@ -33,7 +33,7 @@
             </a>
           </div>
           <div class="columns small-12 medium-4">
-            {% if episode.overcast %}
+            {% if episode.overcast != nil and episode.overcast != "" %}
             <a href="{{ episode.overcast }}">
             {% else %}
             <a href="{{ site.data.metadata.overcast }}">
@@ -42,7 +42,7 @@
             </a>
           </div>
           <div class="columns small-12 medium-4">
-            {% if episode.overcast %}
+            {% if episode.itunes != nil and episode.itunes != "" %}
             <a href="{{ episode.itunes }}">
             {% else %}
             <a href="{{ site.data.metadata.itunes }}">
