@@ -14,17 +14,19 @@
     </div>
     <div class="row description align-middle text-left">
       <div class="columns small-12">
-        <p>Technologiczny głos w Twoim domu, w Twoich słuchawkach, w Twojej głowie.</p>
+        <p>
+          Cafe Nerd to podcast prowadzony przez grupę znajomych pracujących na co dzień w branży IT. Chcemy przybliżać świat technologii widziany z perspektywy jej twórców. Staramy się każdy temat naświetlać z wielu perspektyw: biznesowej, społecznej, programistycznej i zwyczajnie ludzkiej. Nie możemy się doczekać, żeby opowiedzieć Ci o tym wszystkim, co nas fascynuje! 
+        </p>
       </div>
     </div>
     <div class="row text-left">
 {% for speaker in site.data.speakers %}
 <div class="columns small-6 medium-4 large-3">
   <div class="row text-center align-middle">
-    <div class="columns small-12">
+    <div class="columns small-12 photo">
       <img src="{{ speaker[1].photo }}" />
     </div>
-    <div class="columns small-12">
+    <div class="columns small-12 name">
       <a href="{{ speaker[1].contact }}">
         {{ speaker[1].name }}
       </a>
