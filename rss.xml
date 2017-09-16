@@ -1,9 +1,9 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <link href="{{ site.data.metadata.url }}/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="{{ site.data.metadata.url }}/rss.xml" rel="self" type="application/rss+xml"/>
     <title>{{ site.data.metadata.title }}</title>
     <link>{{ site.data.metadata.url }}</link>
     <language>pl</language>
@@ -12,12 +12,6 @@
     <itunes:summary><![CDATA[{{ site.data.metadata.description }}]]></itunes:summary>
 
     <copyright><![CDATA[{{ site.data.metadata.copyright }}]]></copyright>
-
-    <image>
-      <url>{{ site.data.metadata.logo_url }}</url>
-      <title>{{ site.data.metadata.title }}</title>
-      <link>{{ site.data.metadata.url }}</link>
-    </image>
 
     <itunes:owner>
       <itunes:name>{{ site.data.metadata.author }}</itunes:name>
@@ -41,8 +35,6 @@
       <itunes:image href="{{ site.data.metadata.logo_url }}"/>
       <itunes:duration>{{ episode.duration }}</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
-      <language>pl</language>
-      <link>{{ site.data.metadata.url }}</link>
       <itunes:subtitle>{{ episode.subtitle }}</itunes:subtitle>
       <itunes:summary>{{ episode.subtitle }}</itunes:summary>
       <content:encoded><![CDATA[{{ episode.content | markdownify }}]]></content:encoded>
