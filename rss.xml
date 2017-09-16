@@ -27,6 +27,8 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{ site.data.metadata.logo_url }}"/>
 
+    <itunes:type>episodic</itunes:type>
+
     <itunes:category text="Technology"/>
     <itunes:category text="Society &amp; Culture"/>
   {% for episode in site.episodes %}
@@ -41,8 +43,9 @@
       <itunes:explicit>no</itunes:explicit>
       <language>pl</language>
       <link>{{ site.data.metadata.url }}</link>
-      <itunes:subtitle><![CDATA[{{ episode.subtitle }}]]></itunes:subtitle>
-      <itunes:summary><![CDATA[{{ episode.content | markdownify }}]]></itunes:summary>
+      <itunes:subtitle>{{ episode.subtitle }}</itunes:subtitle>
+      <itunes:summary>{{ episode.subtitle }}</itunes:summary>
+      <content:encoded><![CDATA[{{ episode.content | markdownify }}]]></content:encoded>
       <description><![CDATA[{{ episode.content | markdownify }}]]></description>
     </item>
   {% endfor %}
