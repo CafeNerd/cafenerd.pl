@@ -12,7 +12,7 @@ subtitle: Dlaczego korzystamy z AppleWatch? Dlaczego jest on tak popularny? Czy 
 
 ---
 
-W odcinku [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data.speakers.krzysztof_siejkowski.contact }}), [{{ site.data.speakers.agnieszka_czyzak.short }}]({{ site.data.speakers.agnieszka_czyzak.contact }}) i [{{ site.data.speakers.maciej_oczko.short }}]({{ site.data.speakers.maciej_oczko.contact }}) rozmawiają o AppleWatch.
+W tym odcinku [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data.speakers.krzysztof_siejkowski.contact }}), [{{ site.data.speakers.agnieszka_czyzak.short }}]({{ site.data.speakers.agnieszka_czyzak.contact }}) i [{{ site.data.speakers.maciej_oczko.short }}]({{ site.data.speakers.maciej_oczko.contact }}) rozmawiają o AppleWatch.
 
 Opowiadając o tym jak korzystają na co dzień z zegarka firmy Apple i o swoich rozczarowaniach z nim związanych, poruszają kwestie historii urządzenia, jego użyteczności, wyglądu, zagadnień i trudności technologicznych oraz największych plusów i minusów gadżetu rodem z Cupertino.
 

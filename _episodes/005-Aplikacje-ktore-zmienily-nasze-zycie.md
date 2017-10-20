@@ -12,7 +12,7 @@ subtitle: Technologia jest wszechobecna w życiu codziennym, a jednym z jej najc
 
 ---
 
-W odcinku [{{ site.data.speakers.agnieszka_czyzak.short }}]({{ site.data.speakers.agnieszka_czyzak.contact }}), [{{ site.data.speakers.joanna_kasprzak_kajder.short }}]({{ site.data.speakers.joanna_kasprzak_kajder.contact }}), [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data.speakers.krzysztof_siejkowski.contact }}) oraz [{{ site.data.speakers.nadia_kasem.short }}]({{ site.data.speakers.nadia_kasem.contact }}) rozmawiają o ośmiu aplikacjach, które zmieniły ich życie prywatne i zawodowe, oraz szerzej, życie nas wszystkich jako współczesnego społeczeństwa.
+W tym odcinku [{{ site.data.speakers.agnieszka_czyzak.short }}]({{ site.data.speakers.agnieszka_czyzak.contact }}), [{{ site.data.speakers.joanna_kasprzak_kajder.short }}]({{ site.data.speakers.joanna_kasprzak_kajder.contact }}), [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data.speakers.krzysztof_siejkowski.contact }}) oraz [{{ site.data.speakers.nadia_kasem.short }}]({{ site.data.speakers.nadia_kasem.contact }}) rozmawiają o ośmiu aplikacjach, które zmieniły ich życie prywatne i zawodowe, oraz szerzej, życie nas wszystkich jako współczesnego społeczeństwa.
 
 ### Shownotes
 

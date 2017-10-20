@@ -12,7 +12,7 @@ subtitle: Kim są osoby stojące za Café Nerd? Czym się zajmują? Dlaczego nag
 
 ---
 
-W odcinku osiem osób stojących za Café Nerd opowiada o tym, kim jesteśmy, czym się zajmujemy i dlaczego nagrywamy podcast.
+W tym odcinku osiem osób stojących za Café Nerd opowiada o tym, kim jesteśmy, czym się zajmujemy i dlaczego nagrywamy podcast.
 
 ### Uczestnicy:
   * [{{ site.data.speakers.maciej_oczko.name }}]({{ site.data.speakers.maciej_oczko.contact }}) (prowadzący)

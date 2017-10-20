@@ -12,7 +12,7 @@ subtitle: "Testy aplikacji mobilnej dla osób niewidomych zainspirowały nas do 
 
 ---
 
-W odcinku [{{ site.data.speakers.agnieszka_czyzak.short }}]({{ site.data.speakers.agnieszka_czyzak.contact }}), [{{ site.data.speakers.nadia_kasem.short }}]({{ site.data.speakers.nadia_kasem.contact }}), [{{ site.data.speakers.maciej_oczko.short }}]({{ site.data.speakers.maciej_oczko.contact }}) i [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data.speakers.krzysztof_siejkowski.contact }}) rozmawiają o dostępności aplikacji mobilnych.
+W tym odcinku [{{ site.data.speakers.agnieszka_czyzak.short }}]({{ site.data.speakers.agnieszka_czyzak.contact }}), [{{ site.data.speakers.nadia_kasem.short }}]({{ site.data.speakers.nadia_kasem.contact }}), [{{ site.data.speakers.maciej_oczko.short }}]({{ site.data.speakers.maciej_oczko.contact }}) i [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data.speakers.krzysztof_siejkowski.contact }}) rozmawiają o dostępności aplikacji mobilnych.
 
 ### Shownotes:
 
