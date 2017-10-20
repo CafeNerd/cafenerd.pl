@@ -16,15 +16,13 @@ W tym odcinku [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data
 
 ### Shownotes
 
-#### [Apple iPad Pro](https://www.apple.com/pl/ipad/)
-
-#### Aplikacje
-
-* [Nebo](https://www.myscript.com/nebo/)
-* [Notability](http://gingerlabs.com)
-* [MindNode](https://mindnode.com)
-* [Terminus](https://www.termius.com/)
-* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
-* [Pythonista](http://omz-software.com/pythonista/)
-* [Continuous](http://continuous.codes)
-* [procreate](https://procreate.art)
+* [Apple iPad Pro](https://www.apple.com/pl/ipad/)
+* Aplikacje
+    - [Nebo](https://www.myscript.com/nebo/)
+    - [Notability](http://gingerlabs.com)
+    - [MindNode](https://mindnode.com)
+    - [Terminus](https://www.termius.com/)
+    - [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
+    - [Pythonista](http://omz-software.com/pythonista/)
+    - [Continuous](http://continuous.codes)
+    - [procreate](https://procreate.art)
