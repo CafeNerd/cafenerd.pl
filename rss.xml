@@ -28,7 +28,7 @@
   {% for episode in site.episodes %}
     <item>
       <guid isPermaLink="false">{{ episode.guid }}</guid>
-      <enclosure type="audio/mpeg" url="{{ episode.file }}" length="{{ episode.length }}"/>
+      <enclosure type="audio/mpeg" url="http://dts.podtrac.com/redirect.mp3/{{ episode.file }}" length="{{ episode.length }}"/>
       <title>{{ episode.title }}</title>
       <pubDate>{{ episode.date | date_to_rfc822 }}</pubDate>
       <itunes:author>{{ site.data.metadata.author }}</itunes:author>
