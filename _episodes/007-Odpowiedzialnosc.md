@@ -6,7 +6,7 @@ duration: "00:38:26"
 title: "#7: Odpowiedzialność twórców technologii"
 date: 2017-11-19 20:00:00 CET
 file: http://episodes.cafenerd.pl/2017-11-19-Odpowiedzialnosc.mp3
-overcast: ""
+overcast: "https://overcast.fm/+JcsS-7eYE"
 itunes: ""
 subtitle: Do jakiego stopnia twórcy technologii są odpowiedzialni za swoje dzieło? Czy pracując w branży IT można mieć dylematy etyczne?
 
