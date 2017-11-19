@@ -21,10 +21,13 @@
     </div>
     <div class="row text-left">
 {% for speaker in site.data.speakers %}
+{% if speaker.active == y %}
 <div class="columns small-6 medium-4 large-3">
   <div class="row text-center align-middle">
     <div class="columns small-12 photo">
-      <img src="{{ speaker[1].photo }}" />
+      <a href="{{ speaker[1].contact }}">
+        <img src="{{ speaker[1].photo }}" />
+      </a>
     </div>
     <div class="columns small-12 name">
       <a href="{{ speaker[1].contact }}">
@@ -33,6 +36,7 @@
     </div>
   </div>
 </div>
+{% endif %}
 {% endfor %}      
     </div>
   </div>
