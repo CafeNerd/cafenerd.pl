@@ -6,7 +6,7 @@ duration: "00:42:04"
 title: "#9: Jak dbać o swój czas korzystając z technologii?"
 date: 2018-01-09 10:00:00 CET
 file: http://episodes.cafenerd.pl/2018-01-09-Uzaleznianie.mp3
-overcast: ""
+overcast: "https://overcast.fm/+JcsQYfzy8"
 itunes: ""
 subtitle: "Dlaczego technologia nas uzależnia i jak się temu nie dać?"
 
@@ -16,7 +16,7 @@ Tym razem podeszliśmy do technologii trochę bardziej krytycznie niż zwykle. Z
 
 ### Shownotes
 
-* [Smatfica](https://sjp.pwn.pl/ciekawostki/haslo/Smartwica;6383040.html)
+* [Smatwica](https://sjp.pwn.pl/ciekawostki/haslo/Smartwica;6383040.html)
 * [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out)
 * [Netflix - binge racer (ich ilość wzrosła 20 razy między 2013 a 2016)](https://media.netflix.com/en/press-releases/ready-set-binge-more-than-8-million-viewers-binge-race-their-favorite-series)
 * [Największym rywalem Netflixa jest sen](https://www.recode.net/2017/4/17/15334122/netflix-sleep-competitor-amazon-hbo)
