@@ -60,6 +60,10 @@
   font-family: "Open Sans";
 }
 
+.episode .player {
+  height: 5em;
+}
+
 .episode .shownotes {
   font-size: 11pt;
   font-family: "Open Sans";
