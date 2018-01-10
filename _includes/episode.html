@@ -1,0 +1,61 @@
+{% for episode in include.episodes reversed %}
+{% if include.chosen_episode and include.chosen_episode.guid != episode.guid %}
+{% else %}
+
+<div class="episode row align-middle">
+  <div class="columns small-12 medium-10 medium-offset-1">
+    <div class="row date align-middle text-left">
+      <div class="columns small-12">
+        {{ episode.date | date: "%Y-%m-%d" }}
+      </div>
+    </div>
+    <div class="row title align-middle text-left">
+      <div class="columns small-12">
+        <a href="{{ episode.url }}">
+          <h1>{{ episode.title }}</h1>
+        </a>
+      </div>
+    </div>
+    <div class="row text-left">
+      <div class="columns small-12 shownotes">
+        {{ episode.content | markdownify }}
+      </div>
+    </div>
+    <div class="row share align-middle text-center">
+      <div class="columns small-8 small-offset-2">
+        <div class="row align-middle text-center">
+          <div class="columns small-12 medium-4">
+            <a href="http://dts.podtrac.com/redirect.mp3/{{ episode.file }}">
+              Ściągnij
+            </a>
+          </div>
+          <div class="columns small-12 medium-4">
+            {% if episode.overcast != nil and episode.overcast != "" %}
+            <a href="{{ episode.overcast }}">
+            {% else %}
+            <a href="{{ site.data.metadata.overcast }}">
+            {% endif %}
+              Overcast
+            </a>
+          </div>
+          <div class="columns small-12 medium-4">
+            {% if episode.itunes != nil and episode.itunes != "" %}
+            <a href="{{ episode.itunes }}">
+            {% else %}
+            <a href="{{ site.data.metadata.itunes }}">
+            {% endif %}
+              iTunes
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+{% if include.chosen_episode %}
+{% elsif forloop.last == false %}
+<hr/>
+{% endif %}
+  </div>
+</div>
+
+{% endif %}
+{% endfor %}
