@@ -50,6 +50,10 @@
   height: 3em;
 }
 
+.episode .title a {
+  color: #f4512c;
+}
+
 .episode .title h1 {
   font-size: 17pt;
   font-weight: bold;
