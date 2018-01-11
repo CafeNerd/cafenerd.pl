@@ -19,6 +19,7 @@
   background-color: #f4512c;
   margin-top: 1.5em;
   margin-bottom: 1em;
+  text-align: right;
 }
 
 .header a {
@@ -34,6 +35,10 @@
   font-family: "FontAwesome";
   font-style: normal;
   font-weight: normal;
+}
+
+hr {
+  max-width: 90%;
 }
 
 .episode {
@@ -86,7 +91,12 @@
 
 .episode .shownotes ul {
   padding-left: 0em;
-  margin-left: 10%;
+  margin-left: 3em;
+}
+
+.episode .shownotes ul ul {
+  padding-left: 0em;
+  margin-left: 1.5em;
 }
 
 .episode .share {

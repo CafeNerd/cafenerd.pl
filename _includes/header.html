@@ -1,8 +1,8 @@
 <div class="header row align-middle text-center">
-  <div class="columns small-12 medium-4">
+  <div class="columns small-5 medium-4">
     <div class="row">
-      <div class="columns small-4 medium-3 large-4"></div>
-      <div class="columns small-4 medium-7 large-4">
+      <div class="columns small-0 medium-3 large-4"></div>
+      <div class="columns small-12 medium-7 large-4">
         <a href="/">
           <img src="/img/logo_big.png">
         </a>
@@ -10,54 +10,60 @@
       <div class="columns small-4 medium-2 large-4"></div>
     </div>
   </div>
-  <div class="columns button small-6 medium-2">
-    <a href="/"
-       {% if include.underline_episodes %}
-       class="underline"
-       {% endif %}
-    >
-      ODCINKI
-    </a>
-  </div>
-  <div class="columns button small-6 medium-2">
-    <a href="/about"
-       {% if include.underline_about %}
-       class="underline"
-       {% endif %}
-    >
-      CO TO JEST
-    </a>
-  </div>
-  <div class="columns button small-6 medium-2">
-    <a href="mailto: {{ site.data.metadata.email }}">
-      NAPISZ DO NAS
-    </a>
-  </div>
-  <div class="columns button small-6 medium-2">
-    <div class="row align-middle">
-      <div class="columns small-1 medium-0"></div>
-      <div class="columns small-8 medium-12">
-        <div class="row">
-      
-          <div class="columns small-3">
-            <a href="{{ site.data.metadata.facebook }}">
-              <span class="fa fa-facebook-square fa-lg"></span>
-            </a>
-          </div>
-          <div class="columns small-3">
-            <a href="{{ site.data.metadata.twitter }}">
-              <span class="fa fa-twitter-square fa-lg"></span>
-            </a>
-          </div>
-          <div class="columns small-3">
-            <a href="/rss.xml">
-              <span class="fa fa-rss-square fa-lg"></span>
-            </a>
-          </div>
 
-        </div>
+  <div class="columns small-6 medium-7">
+    <div class="row small-only-text-right">
+      <div class="columns button small-12 medium-3">
+        <a href="/"
+           {% if include.underline_episodes %}
+           class="underline"
+           {% endif %}
+        >
+          ODCINKI
+        </a>
       </div>
-      <div class="columns small-3 medium-0"></div>
+      <div class="columns medium-1"></div>
+      <div class="columns button small-12 medium-3">
+        <a href="/about"
+           {% if include.underline_about %}
+           class="underline"
+           {% endif %}
+        >
+          CO TO JEST?
+        </a>
+      </div>
+      <div class="columns medium-1"></div>
+      <div class="columns button small-12 medium-4">
+        <div class="row align-middle text-right">
+          <div class="columns small-4 medium-0"></div>
+          <div class="columns small-8 medium-12">
+            <div class="row">
+              <div class="columns small-3">
+                <a href="mailto: {{ site.data.metadata.email }}">
+                  <span class="fa fa-envelope fa-lg"></span>
+                </a>
+              </div>
+              <div class="columns small-3">
+                <a href="{{ site.data.metadata.facebook }}">
+                  <span class="fa fa-facebook-square fa-lg"></span>
+                </a>
+              </div>
+              <div class="columns small-3">
+                <a href="{{ site.data.metadata.twitter }}">
+                  <span class="fa fa-twitter-square fa-lg"></span>
+                </a>
+              </div>
+              <div class="columns small-3">
+                <a href="/rss.xml">
+                  <span class="fa fa-rss-square fa-lg"></span>
+                </a>
+              </div>
+
+            </div>
+          </div>
+        </div>
+
+      </div>
     </div>
   </div>
 </div>
