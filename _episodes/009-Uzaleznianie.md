@@ -16,7 +16,7 @@ Tym razem podeszliśmy do technologii trochę bardziej krytycznie niż zwykle. Z
 
 ### Shownotes
 
-* [Smatwica](https://sjp.pwn.pl/ciekawostki/haslo/Smartwica;6383040.html)
+* [Smartwica](https://sjp.pwn.pl/ciekawostki/haslo/Smartwica;6383040.html)
 * [FOMO](https://en.wikipedia.org/wiki/Fear_of_missing_out)
 * [Netflix - binge racer (ich ilość wzrosła 20 razy między 2013 a 2016)](https://media.netflix.com/en/press-releases/ready-set-binge-more-than-8-million-viewers-binge-race-their-favorite-series)
 * [Największym rywalem Netflixa jest sen](https://www.recode.net/2017/4/17/15334122/netflix-sleep-competitor-amazon-hbo)
