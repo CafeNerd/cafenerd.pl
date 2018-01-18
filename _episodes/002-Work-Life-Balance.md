@@ -5,7 +5,7 @@ length: 92927293
 duration: "00:48:24"
 title: "#2: Work-Life Balance"
 date: 2017-07-18 09:00:00 CET
-file: http://episodes.cafenerd.pl/2017-07-18-Work-Life-Balance.mp3
+file: https://episodes.cafenerd.pl/2017-07-18-Work-Life-Balance.mp3
 overcast: "https://overcast.fm/+JcsTyYFNY"
 itunes: "https://itunes.apple.com/pl/podcast/2-work-life-balance/id1254959267?i=1000390020159"
 subtitle: Co to jest work-life balance? Czy w ogóle istnieje? Czy można go osiągnąć w branży IT?

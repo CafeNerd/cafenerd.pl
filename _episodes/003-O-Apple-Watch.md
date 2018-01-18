@@ -5,7 +5,7 @@ length: 61565096
 duration: "00:42:44"
 title: "#3: O Apple Watch"
 date: 2017-08-18 09:00:00 CET
-file: http://episodes.cafenerd.pl/2017-08-18-AppleWatch.mp3
+file: https://episodes.cafenerd.pl/2017-08-18-AppleWatch.mp3
 overcast: "https://overcast.fm/+JcsTTMj4A"
 itunes: "https://itunes.apple.com/pl/podcast/3-o-apple-watch/id1254959267?i=1000391339824"
 subtitle: Dlaczego korzystamy z AppleWatch? Dlaczego jest on tak popularny? Czy jest on wielkim rozczarowaniem?

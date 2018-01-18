@@ -5,7 +5,7 @@ length: 50594210
 duration: "00:42:04"
 title: "#9: Jak dbać o swój czas korzystając z technologii?"
 date: 2018-01-09 10:00:00 CET
-file: http://episodes.cafenerd.pl/2018-01-09-Uzaleznianie.mp3
+file: https://episodes.cafenerd.pl/2018-01-09-Uzaleznianie.mp3
 overcast: "https://overcast.fm/+JcsQYfzy8"
 itunes: "https://itunes.apple.com/pl/podcast/9-jak-dba%C4%87-o-sw%C3%B3j-czas-korzystaj%C4%85c-z-technologii/id1254959267?i=1000399441206&mt=2"
 subtitle: "Dlaczego technologia nas uzależnia i jak się temu nie dać?"

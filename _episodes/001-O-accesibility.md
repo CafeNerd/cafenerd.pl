@@ -5,7 +5,7 @@ length: 79088664
 duration: "00:41:11"
 title: "#1: O accessibility"
 date: 2017-06-30 09:00:00 CET
-file: http://episodes.cafenerd.pl/2017-06-30-Accessibility.mp3
+file: https://episodes.cafenerd.pl/2017-06-30-Accessibility.mp3
 overcast: "https://overcast.fm/+JcsQ-Hm5c"
 itunes: "https://itunes.apple.com/pl/podcast/1-o-accessibility/id1254959267?i=1000389435551"
 subtitle: "Testy aplikacji mobilnej dla osób niewidomych zainspirowały nas do rozmowy o accessibility"
