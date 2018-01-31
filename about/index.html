@@ -21,7 +21,7 @@
     </div>
     <div class="row text-left">
 {% for speaker in site.data.speakers %}
-{% if speaker.active == y %}
+{% if speaker[1].organizer %}
 <div class="columns small-6 medium-4 large-3">
   <div class="row text-center align-middle">
     <div class="columns small-12 photo">

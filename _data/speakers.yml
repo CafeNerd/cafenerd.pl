@@ -3,55 +3,60 @@ agnieszka_czyzak:
   short: Aga
   contact: https://twitter.com/agaczyzak
   photo: /img/agnieszka_cz.jpg
-  active: true
+  organizer: yes
 
 grzegorz_kapusta:
   name: Grzegorz Kapusta
   short: Grzesiek
   contact: https://twitter.com/gkapusta
   photo: /img/grzegorz_ka.jpg
-  active: true
+  organizer: yes
 
 nadia_kasem:
   name: Nadia Kasem
   short: Nadia
   contact: https://twitter.com/NadiaKasem_
   photo: /img/nadia_ka.jpg
-  active: true
+  organizer: yes
 
 joanna_kasprzak_kajder:
   name: Joanna Kasprzak-Kajder
   short: Asia
   contact: https://twitter.com/_joannakk_
   photo: /img/joanna_kk.jpg
-  active: true
+  organizer: yes
 
 mikolaj_kojdecki:
   name: Mikołaj Kojdecki
   short: Mikołaj
   contact: https://www.linkedin.com/in/mikołaj-kojdecki-0b4670114
   photo: /img/mikolaj_ko.jpg
-  active: true
+  organizer: yes
 
 maciej_oczko:
   name: Maciej Oczko
   short: Maciek
   contact: https://twitter.com/MaciejOczko
   photo: /img/maciej_oc.jpg
-  active: true
+  organizer: yes
 
 krzysztof_siejkowski:
   name: Krzysztof Siejkowski
   short: Krzysiek
   contact: https://twitter.com/_siejkowski
   photo: /img/krzysztof_si.jpg
-  active: true
+  organizer: yes
 
 rafal_tulwin:
   name: Rafał Tulwin
   short: Rafał
   contact: https://twitter.com/rtulwin
   photo: /img/rafal_tu.jpg
-  active: true
+  organizer: yes
 
+michal_mizera:
+  name: Michał Mizera
+  short: Michał
+  contact: https://twitter.com/axadiw
+  photo: /img/michal_mi.jpg
 
