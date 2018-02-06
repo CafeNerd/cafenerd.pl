@@ -3,7 +3,7 @@
 guid: 2018-01-31-Kryptowaluty
 length: 71862058
 duration: "00:59:48"
-title: "#10: Kryptowaluty"
+title: "#10: Co warto wiedzieć o kryptowalutach?"
 date: 2018-01-31 22:00:00 CET
 file: https://episodes.cafenerd.pl/2018-01-31-Kryptowaluty.mp3
 overcast: ""
