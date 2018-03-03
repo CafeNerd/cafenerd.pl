@@ -6,7 +6,7 @@ duration: "00:52:17"
 title: "#11: Role i stanowiska w IT"
 date: 2018-02-13 09:30:00 +0100
 file: https://episodes.cafenerd.pl/2018-02-13-Stanowiska.mp3
-overcast: ""
+overcast: "https://overcast.fm/+JcsQFhYlc"
 itunes: ""
 subtitle: "Skąd wynikają role w IT i jak objąć jedną z nich?"
 
