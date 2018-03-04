@@ -7,7 +7,7 @@ title: "#10: Co warto wiedzieć o kryptowalutach?"
 date: 2018-01-31 22:00:00 CET
 file: https://episodes.cafenerd.pl/2018-01-31-Kryptowaluty.mp3
 overcast: "https://overcast.fm/+JcsS31W4k"
-itunes: ""
+itunes: "https://itunes.apple.com/pl/podcast/10-co-warto-wiedzie%C4%87-o-kryptowalutach/id1254959267?i=1000401179071&mt=2"
 subtitle: "Czym są kryptowaluty i dlaczego warto się nimi zainteresować?"
 
 ---

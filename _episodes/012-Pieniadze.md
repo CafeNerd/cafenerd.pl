@@ -7,7 +7,7 @@ title: "#12: Skąd się biorą pieniądze w IT?"
 date: 2018-03-03 17:15:00 +0100
 file: https://episodes.cafenerd.pl/2018-03-03-Pieniadze-w-IT.mp3
 overcast: "https://overcast.fm/+JcsQXmic8"
-itunes: ""
+itunes: "https://itunes.apple.com/pl/podcast/12-sk%C4%85d-si%C4%99-bior%C4%85-pieni%C4%85dze-w-it/id1254959267?i=1000404700323&mt=2"
 subtitle: "IT to branża, w którą inwestowany jest duży kapitał. Skąd się biorą te pieniądze i jak wpływa to na społeczeństwo?"
 
 ---
