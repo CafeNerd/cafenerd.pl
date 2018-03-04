@@ -8,6 +8,7 @@ date: 2017-09-27 09:00:00 CET
 file: https://episodes.cafenerd.pl/2017-09-27-Aplikacje-ktore-zmienily-nasze-zycie.mp3
 overcast: "https://overcast.fm/+JcsTkyRWA"
 itunes: "https://itunes.apple.com/pl/podcast/5-aplikacje-kt%C3%B3re-zmieni%C5%82y-nasze-%C5%BCycie/id1254959267?i=1000392752456"
+pocketcast: "http://pca.st/episode/fe2545e3-e7e8-440e-9c8e-d98c0e079521"
 subtitle: Technologia jest wszechobecna w życiu codziennym, a jednym z jej najczęstszych przejawów są używane przez nas aplikacje. Które z nich najbardziej zmieniły nasze życie?
 
 ---

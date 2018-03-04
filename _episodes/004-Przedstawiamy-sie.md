@@ -8,6 +8,7 @@ date: 2017-08-25 09:00:00 CET
 file: https://episodes.cafenerd.pl/2017-08-25-Odcinek-zerowy.mp3
 overcast: "https://overcast.fm/+JcsQW_rSA"
 itunes: "https://itunes.apple.com/pl/podcast/4-przedstawiamy-si%C4%99/id1254959267?i=1000391760440"
+pocketcast: "http://pca.st/episode/2b944448-643c-48bf-ab60-ca6f592bb676"
 subtitle: Kim są osoby stojące za Café Nerd? Czym się zajmują? Dlaczego nagrywają podcast?
 
 ---

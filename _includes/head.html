@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>       
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]--> 
 <!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -17,7 +19,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
     <meta charset="utf-8" />
     
-    <title>Cafe Nerd Podcast</title>
+  {% if page.title != nil and page.title != "" %}
+    <title>{{ page.title }}</title>
+  {% else %}
+    <title>{{ site.data.metadata.title }}</title>
+  {% endif %}
     <meta name="description" content="Cafe Nerd Podcast">
     <meta name="author" content="Cafe Nerd">
   </head>

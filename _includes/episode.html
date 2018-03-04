@@ -31,12 +31,12 @@
     <div class="row share align-middle text-center">
       <div class="columns small-8 small-offset-2">
         <div class="row align-middle text-center">
-          <div class="columns small-12 medium-4">
+          <div class="columns small-12 medium-3">
             <a href="https://dts.podtrac.com/redirect.mp3/{{ episode.file }}">
               Ściągnij
             </a>
           </div>
-          <div class="columns small-12 medium-4">
+          <div class="columns small-12 medium-3">
             {% if episode.overcast != nil and episode.overcast != "" %}
             <a href="{{ episode.overcast }}">
             {% else %}
@@ -45,7 +45,16 @@
               Overcast
             </a>
           </div>
-          <div class="columns small-12 medium-4">
+          <div class="columns small-12 medium-3">
+            {% if episode.pocketcast != nil and episode.pocketcast != "" %}
+            <a href="{{ episode.pocketcast }}">
+            {% else %}
+            <a href="{{ site.data.metadata.pocketcast }}">
+            {% endif %}
+              Pocket Casts
+            </a>
+          </div>
+          <div class="columns small-12 medium-3">
             {% if episode.itunes != nil and episode.itunes != "" %}
             <a href="{{ episode.itunes }}">
             {% else %}

@@ -8,6 +8,7 @@ date: 2017-10-10 09:00:00 CET
 file: https://episodes.cafenerd.pl/2017-10-10-iPad-Pro.mp3
 overcast: "https://overcast.fm/+JcsRFguds"
 itunes: "https://itunes.apple.com/pl/podcast/6-praca-z-ipadem-pro/id1254959267?i=1000393772160"
+pocketcast: "http://pca.st/episode/1a0cec83-2ddb-454d-9e56-af5941b212f1"
 subtitle: Czy iPad Pro nadaje się do codziennej pracy? Czy może zastąpić notes i laptopa?
 
 ---

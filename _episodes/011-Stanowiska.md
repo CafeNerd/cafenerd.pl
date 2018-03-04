@@ -8,6 +8,7 @@ date: 2018-02-13 09:30:00 +0100
 file: https://episodes.cafenerd.pl/2018-02-13-Stanowiska.mp3
 overcast: "https://overcast.fm/+JcsQFhYlc"
 itunes: "https://itunes.apple.com/pl/podcast/11-role-i-stanowiska-w-it/id1254959267?i=1000402091896&mt=2"
+pocketcast: "http://pca.st/episode/ac2e0b3c-d1f3-4091-943b-a65e109d4da3"
 subtitle: "Skąd wynikają role w IT i jak objąć jedną z nich?"
 
 ---

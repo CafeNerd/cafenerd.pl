@@ -8,6 +8,7 @@ date: 2017-08-18 09:00:00 CET
 file: https://episodes.cafenerd.pl/2017-08-18-AppleWatch.mp3
 overcast: "https://overcast.fm/+JcsTTMj4A"
 itunes: "https://itunes.apple.com/pl/podcast/3-o-apple-watch/id1254959267?i=1000391339824"
+pocketcast: "http://pca.st/episode/ae8e6e13-8e83-407d-a88e-83b69a7c1c9e"
 subtitle: Dlaczego korzystamy z AppleWatch? Dlaczego jest on tak popularny? Czy jest on wielkim rozczarowaniem?
 
 ---

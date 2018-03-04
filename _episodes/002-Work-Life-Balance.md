@@ -8,6 +8,7 @@ date: 2017-07-18 09:00:00 CET
 file: https://episodes.cafenerd.pl/2017-07-18-Work-Life-Balance.mp3
 overcast: "https://overcast.fm/+JcsTyYFNY"
 itunes: "https://itunes.apple.com/pl/podcast/2-work-life-balance/id1254959267?i=1000390020159"
+pocketcast: "http://pca.st/episode/a20036e0-4ddd-0135-902b-63f4b61a9224"
 subtitle: Co to jest work-life balance? Czy w ogóle istnieje? Czy można go osiągnąć w branży IT?
 
 ---
