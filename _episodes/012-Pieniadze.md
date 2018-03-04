@@ -22,5 +22,5 @@ Dlaczego tak się dzieje? Kto właściwie oferuje pieniądze założycielom firm
 # Shownotes:
 
 * [Zacięta walka o programistów](http://www.rp.pl/Rynek-pracy/309109930-Zacieta-walka-o-programistow.html)
-* [Peter Diamandis, założyciel Singular University](https://su.org/faculty-speakers/peter-diamandis/)
+* [Peter Diamandis, założyciel Singularity University](https://su.org/faculty-speakers/peter-diamandis/)
 * [Fundusz Venture Capital "Fifty Years"](http://www.fifty.vc)
