@@ -114,6 +114,29 @@ hr {
   font-size: 12pt;
 }
 
+.youtube {
+  max-width: 700px;
+  margin: 0px auto;
+}
+
+.youtube > div {
+  position: relative;
+  padding-bottom: 45%;
+  height: 0px;
+}
+
+.youtube iframe {
+  position: absolute;
+  top: 0px;
+  left: 10%;
+  width: 80%;
+  height: 100%;
+}
+
+div.full-height {
+   min-height:100vh;
+}
+
 .speakers {
   margin-bottom: 3em;
 }

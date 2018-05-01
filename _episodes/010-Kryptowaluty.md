@@ -9,6 +9,7 @@ file: https://episodes.cafenerd.pl/2018-01-31-Kryptowaluty.mp3
 overcast: "https://overcast.fm/+JcsS31W4k"
 itunes: "https://itunes.apple.com/pl/podcast/10-co-warto-wiedzie%C4%87-o-kryptowalutach/id1254959267?i=1000401179071&mt=2"
 pocketcast: "http://pca.st/episode/1d045945-0c0c-4347-80f7-f8878693fe5f"
+youtube: "BBJ6dTjl-Iw"
 subtitle: "Czym są kryptowaluty i dlaczego warto się nimi zainteresować?"
 
 ---

@@ -9,6 +9,7 @@ file: https://episodes.cafenerd.pl/2018-01-09-Uzaleznianie.mp3
 overcast: "https://overcast.fm/+JcsQYfzy8"
 itunes: "https://itunes.apple.com/pl/podcast/9-jak-dba%C4%87-o-sw%C3%B3j-czas-korzystaj%C4%85c-z-technologii/id1254959267?i=1000399441206&mt=2"
 pocketcast: "http://pca.st/episode/8b262b09-8a5b-4ca8-b455-966908f21370"
+youtube: "xzJv_fHioxw"
 subtitle: "Dlaczego technologia nas uzależnia i jak się temu nie dać?"
 
 ---

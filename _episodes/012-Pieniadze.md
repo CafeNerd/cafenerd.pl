@@ -9,6 +9,7 @@ file: https://episodes.cafenerd.pl/2018-03-03-Pieniadze-w-IT.mp3
 overcast: "https://overcast.fm/+JcsQXmic8"
 itunes: "https://itunes.apple.com/pl/podcast/12-sk%C4%85d-si%C4%99-bior%C4%85-pieni%C4%85dze-w-it/id1254959267?i=1000404700323&mt=2"
 pocketcast: "http://pca.st/episode/1b6179bc-a845-4703-ad5b-63081a0e562b"
+youtube: "FMbeL-aC_vI"
 subtitle: "IT to branża, w którą inwestowany jest duży kapitał. Skąd się biorą te pieniądze i jak wpływa to na społeczeństwo?"
 
 ---

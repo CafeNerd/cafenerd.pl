@@ -9,6 +9,7 @@ file: https://episodes.cafenerd.pl/2018-03-15-Kawa.mp3
 overcast: ""
 itunes: ""
 pocketcast: ""
+youtube: "Qo8Jrt4mBpk"
 subtitle: "Co stoi za krótkimi wstawkami o kawie na początku każdego odcinka naszego podcastu?"
 
 ---

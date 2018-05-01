@@ -9,6 +9,7 @@ file: https://episodes.cafenerd.pl/2018-04-04-Dzwieki.mp3
 overcast: ""
 itunes: ""
 pocketcast: ""
+youtube: "Hcz3rcF0UP8"
 subtitle: "Co w IT piszczy?"
 
 ---

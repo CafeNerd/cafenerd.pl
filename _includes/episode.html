@@ -28,9 +28,38 @@
         {{ episode.content | markdownify }}
       </div>
     </div>
+    {% if include.chosen_episode and episode.youtube != nil and episode.youtube != "" %}
+    <br/>
+    <div class="row align-middle text-center">
+      <div class="columns small-12">
+        <div class="youtube">
+          <div>
+            <iframe
+              src="https://www.youtube.com/embed/{{ episode.youtube }}?rel=0&amp;showinfo=0" 
+              frameborder="0" 
+              allow="autoplay; encrypted-media" 
+              allowfullscreen="">
+            </iframe>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% else %}
+    <div class="row text-left">
+        <div class="columns small-12 shownotes">
+          <a href="{{ episode.url }}">
+            Więcej
+          </a>
+        </div>
+    </div>
+    {% endif %}
+    <br/>
     <div class="row share align-middle text-center">
       <div class="columns small-8 small-offset-2">
         <div class="row align-middle text-center">
+
+
+    {% if include.chosen_episode or episode.youtube == nil or episode.youtube == "" %}
           <div class="columns small-12 medium-3">
             <a href="https://dts.podtrac.com/redirect.mp3/{{ episode.file }}">
               Ściągnij
@@ -63,6 +92,50 @@
               iTunes
             </a>
           </div>
+    {% else %}
+          <div class="columns small-12 medium-offset-1 medium-2">
+            <a href="https://dts.podtrac.com/redirect.mp3/{{ episode.file }}">
+              Ściągnij
+            </a>
+          </div>
+          <div class="columns small-12 medium-2">
+            {% if episode.overcast != nil and episode.overcast != "" %}
+            <a href="{{ episode.overcast }}">
+            {% else %}
+            <a href="{{ site.data.metadata.overcast }}">
+            {% endif %}
+              Overcast
+            </a>
+          </div>
+          <div class="columns small-12 medium-2">
+            {% if episode.pocketcast != nil and episode.pocketcast != "" %}
+            <a href="{{ episode.pocketcast }}">
+            {% else %}
+            <a href="{{ site.data.metadata.pocketcast }}">
+            {% endif %}
+              Pocket Casts
+            </a>
+          </div>
+          <div class="columns small-12 medium-2">
+            {% if episode.itunes != nil and episode.itunes != "" %}
+            <a href="{{ episode.itunes }}">
+            {% else %}
+            <a href="{{ site.data.metadata.itunes }}">
+            {% endif %}
+              iTunes
+            </a>
+          </div>
+          <div class="columns small-12 medium-2">
+            {% if episode.youtube != nil and episode.youtube != "" %}
+            <a href="https://www.youtube.com/watch?v={{ episode.youtube }}">
+            {% else %}
+            <a href="{{ site.data.metadata.youtube }}">
+            {% endif %}
+              YouTube
+            </a>
+          </div>
+    {% endif %}
+
         </div>
       </div>
     </div>
