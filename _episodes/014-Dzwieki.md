@@ -6,9 +6,9 @@ duration: "00:51:25"
 title: "#14: Dźwięki w biurze"
 date: 2018-04-04 21:00:00 +0100
 file: https://episodes.cafenerd.pl/2018-04-04-Dzwieki.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
+overcast: "https://overcast.fm/+JcsTMDA9I"
+itunes: "https://itunes.apple.com/pl/podcast/14-d%C5%BAwi%C4%99ki-w-biurze/id1254959267?i=1000408177536&l=pl&mt=2"
+pocketcast: "https://pca.st/sSto"
 youtube: "Hcz3rcF0UP8"
 subtitle: "Co w IT piszczy?"
 

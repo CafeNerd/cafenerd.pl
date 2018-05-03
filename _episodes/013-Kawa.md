@@ -6,9 +6,9 @@ duration: "00:53:59"
 title: "#13: Przy technologiach i trendach o kawie"
 date: 2018-03-15 08:30:00 +0100
 file: https://episodes.cafenerd.pl/2018-03-15-Kawa.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
+overcast: "https://overcast.fm/+JcsT-9Z1M"
+itunes: "https://itunes.apple.com/pl/podcast/13-przy-technologiach-i-trendach-o-kawie/id1254959267?i=1000406438427&l=pl&mt=2"
+pocketcast: "https://pca.st/uzEW"
 youtube: "Qo8Jrt4mBpk"
 subtitle: "Co stoi za krótkimi wstawkami o kawie na początku każdego odcinka naszego podcastu?"
 

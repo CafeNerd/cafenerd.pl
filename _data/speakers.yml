@@ -24,13 +24,20 @@ joanna_kasprzak_kajder:
   short: Asia
   contact: https://twitter.com/_joannakk_
   photo: /img/joanna_kk.jpg
-  organizer: yes
+  organizer: no
 
 mikolaj_kojdecki:
   name: Mikołaj Kojdecki
   short: Mikołaj
   contact: https://www.linkedin.com/in/mikołaj-kojdecki-0b4670114
   photo: /img/mikolaj_ko.jpg
+  organizer: yes
+
+michal_mizera:
+  name: Michał Mizera
+  short: Michał
+  contact: https://twitter.com/axadiw
+  photo: /img/michal_mi.jpg
   organizer: yes
 
 maciej_oczko:
@@ -53,10 +60,4 @@ rafal_tulwin:
   contact: https://twitter.com/rtulwin
   photo: /img/rafal_tu.jpg
   organizer: yes
-
-michal_mizera:
-  name: Michał Mizera
-  short: Michał
-  contact: https://twitter.com/axadiw
-  photo: /img/michal_mi.jpg
 
