@@ -28,22 +28,24 @@
         {{ episode.content | markdownify }}
       </div>
     </div>
-    {% if include.chosen_episode and episode.youtube != nil and episode.youtube != "" %}
-    <br/>
-    <div class="row align-middle text-center">
-      <div class="columns small-12">
-        <div class="youtube">
-          <div>
-            <iframe
-              src="https://www.youtube.com/embed/{{ episode.youtube }}?rel=0&amp;showinfo=0" 
-              frameborder="0" 
-              allow="autoplay; encrypted-media" 
-              allowfullscreen="">
-            </iframe>
+    {% if include.chosen_episode %}
+      {% if episode.youtube != nil and episode.youtube != "" %}
+      <br/>
+      <div class="row align-middle text-center">
+        <div class="columns small-12">
+          <div class="youtube">
+            <div>
+              <iframe
+                src="https://www.youtube.com/embed/{{ episode.youtube }}?rel=0&amp;showinfo=0" 
+                frameborder="0" 
+                allow="autoplay; encrypted-media" 
+                allowfullscreen="">
+              </iframe>
+            </div>
           </div>
         </div>
       </div>
-    </div>
+      {% endif %}
     {% else %}
     <div class="row text-left">
         <div class="columns small-12 shownotes">
