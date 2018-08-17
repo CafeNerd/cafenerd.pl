@@ -6,9 +6,9 @@ duration: "00:56:56"
 title: "#17: Fotografia"
 date: 2018-07-04 22:00:00 +0200
 file: https://episodes.cafenerd.pl/2018-07-04-Fotografia.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
+overcast: "https://overcast.fm/+JcsQKEyTA"
+itunes: "https://itunes.apple.com/pl/podcast/17-fotografia/id1254959267?i=1000415233903&mt=2"
+pocketcast: "https://pca.st/od1q"
 youtube: ""
 subtitle: "W odcinku Rafał, Agnieszka i Mikołaj rozmawiają o fotografii i tym, czym dla nich jest."
 

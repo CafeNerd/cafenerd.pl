@@ -6,9 +6,9 @@ duration: "01:10:39"
 title: "#20: Sport i technologie"
 date: 2018-08-16 15:15:00 +0200
 file: https://episodes.cafenerd.pl/2018-08-16-Sport.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
+overcast: "https://overcast.fm/+JcsSgTd1I"
+itunes: "https://itunes.apple.com/pl/podcast/20-sport-i-technologie/id1254959267?i=1000417925292&mt=2"
+pocketcast: "https://pca.st/1e1z"
 youtube: ""
 subtitle: "Jakie gadżety i technologie przydają się w sporcie? Do czego można ich używać i czy w ogóle warto?"
 

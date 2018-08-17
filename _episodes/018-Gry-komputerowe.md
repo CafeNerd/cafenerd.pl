@@ -6,9 +6,9 @@ duration: "00:50:13"
 title: "#18: Gry komputerowe"
 date: 2018-07-18 08:30:00 +0200
 file: https://episodes.cafenerd.pl/2018-07-18-Gry-komputerowe.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
+overcast: "https://overcast.fm/+JcsQX24s8"
+itunes: "https://itunes.apple.com/pl/podcast/18-gry-komputerowe/id1254959267?i=1000416077364&mt=2"
+pocketcast: "https://pca.st/ip2U"
 youtube: ""
 subtitle: "Dlaczego dorosły człowiek gra w gry komputerowe? Co mu one oferują i czy można w nich znaleźć coś unikalnego?"
 

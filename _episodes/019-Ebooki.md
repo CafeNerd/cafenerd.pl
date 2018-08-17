@@ -6,9 +6,9 @@ duration: "01:01:34"
 title: "#19: E-książki, e-atrament, e-czytanie"
 date: 2018-08-02 22:00:00 +0200
 file: https://episodes.cafenerd.pl/2018-08-02-Ebooki.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
+overcast: "https://overcast.fm/+JcsTEuK-o"
+itunes: "https://itunes.apple.com/pl/podcast/19-e-ksi%C4%85%C5%BCki-e-atrament-e-czytanie/id1254959267?i=1000417104050&mt=2"
+pocketcast: "https://pca.st/2UGc"
 youtube: ""
 subtitle: "Czy książki elektroniczne są lepsze niż papierowe? Czy kiedyś je zastąpią? Czy warto czytać z czytników?"
 

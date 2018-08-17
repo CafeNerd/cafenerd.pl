@@ -6,9 +6,9 @@ duration: "01:01:01"
 title: "#16: Zarządzanie w czasie"
 date: 2018-06-13 20:00:00 +0100
 file: https://episodes.cafenerd.pl/2018-06-13-TODO.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
+overcast: "https://overcast.fm/+JcsR-v6BA"
+itunes: "https://itunes.apple.com/pl/podcast/16-zarz%C4%85dzanie-w-czasie/id1254959267?i=1000413695198&mt=2"
+pocketcast: "https://pca.st/X1Yd"
 youtube: ""
 subtitle: "Jak radzimy sobie z natłokiem pracowych i prywatnych obowiązków? Jakich narzędzi używamy?"
 

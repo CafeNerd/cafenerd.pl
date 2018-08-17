@@ -6,10 +6,10 @@ duration: "00:46:08"
 title: "#15: Różni równi"
 date: 2018-05-03 14:00:00 +0100
 file: https://episodes.cafenerd.pl/2018-05-03-Roznorodnosc.mp3
-overcast: ""
-itunes: ""
-pocketcast: ""
-youtube: ""
+overcast: "https://overcast.fm/+JcsRcLWbg"
+itunes: "https://itunes.apple.com/pl/podcast/15-r%C3%B3%C5%BCni-r%C3%B3wni/id1254959267?i=1000410585282&mt=2"
+pocketcast: "https://pca.st/WG0I"
+youtube: "uuKn95Rtc6A"
 subtitle: "Czym jest różnorodność, skąd się wzięła i czy to tylko hasło, czy też termin praktyczny?"
 
 ---
