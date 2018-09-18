@@ -14,7 +14,7 @@ subtitle: "Przedstawiamy nasze najdziwniejsze zajawki. Nie rozumieją ich nasze 
 
 ---
 
-Każdy ma jakiegoś bzika, każdy jakieś hobby ma. Ale coż uczynić, jeśli Twoja prywatna zajawka nie spotka się z akceptacją i zrozumieniem wśród bliskich i kolegów? Odpowiedź może być tylko jedna: wygadaj się o niej w podcaście! Może tam znajdziesz zrozumienie?
+Każdy ma jakiegoś bzika, każdy jakieś hobby ma. Ale coż uczynić, jeśli Twoja prywatna zajawka nie spotka się z akceptacją i zrozumieniem wśród bliskich i przyjaciół? Odpowiedź może być tylko jedna: wygadaj się o niej w podcaście! Może tam znajdziesz zrozumienie?
 
 Najdziwniejszymi zajawkami dzieli się [{{ site.data.speakers.agnieszka_czyzak.short }}]({{ site.data.speakers.agnieszka_czyzak.contact }}), [{{ site.data.speakers.mikolaj_kojdecki.short }}]({{ site.data.speakers.mikolaj_kojdecki.contact }}), [{{ site.data.speakers.krzysztof_siejkowski.short }}]({{ site.data.speakers.krzysztof_siejkowski.contact }}) i [{{ site.data.speakers.rafal_tulwin.short }}]({{ site.data.speakers.rafal_tulwin.contact }}).
 
