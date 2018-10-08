@@ -1,8 +1,8 @@
 ---
 
 guid: 2018-10-08-Antropologia
-length: 00:53:15
-duration: "76780118"
+length: 76780118
+duration: "00:53:15"
 title: "#23: Antropologia a programowanie"
 date: 2018-10-08 08:00:00 +0200
 file: https://episodes.cafenerd.pl/2018-10-08-Antropologia.mp3
